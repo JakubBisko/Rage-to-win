@@ -1,7 +1,7 @@
 # Rage to win
 
 ## Založení projektu [11.10.2024]
-Výběr textur a stažení prvních potřebných materiálů.
+Vyber základních textur a stažení prvních potřebných materiálů. Zajištění podstatných pluginů pro správné fungování projektu.
 
 ## Sphere (vesmírná část) [12.10.2024]
 Založení koule, do které byla přidána 4K textura hvězd z vnitřní strany. Zároveň byla přidána vlastnost *SkyAtmosphere Light Disk Luminance* pro světlo ve tmě.
