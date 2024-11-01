@@ -11,7 +11,7 @@ Na závěr došlo k použití Directional Light, které osvětluje směrem od sl
 
 
 
-## Land (pozemní část)
+## Land (pozemní část) [19.10.2024]
 Pozemní část je tvořena pomocí funkce Landscape, díky které bylo možné vytvořit prostor výrazně vyvýšený oproti zbytku mapy zaplavené vodou.
 V této části se také nachází graficky nenadesignovaný protál mezi světy, řešený prostřednictvím hitboxu, který hráče přesune na druhý level(mapu).
 
