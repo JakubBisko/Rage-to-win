@@ -21,3 +21,8 @@ V této části se také nachází graficky nenadesignovaný protál mezi světy
 ## Základní pohyb [3.11.2024]
 Byl vytvořen základní charakter, který se pohybuje za pomoci kláves WASD, skáče při stisknutí mezerníku a umožňuje rozhlížení se pomocí myši na základě osy X a Y. Zároveň samotný svět obsahuje základní fyzikální vlastnosti pro návrat na povrch při výskoku.
 ![image](https://github.com/user-attachments/assets/92447555-f98b-41d6-b974-01d3f547bbf8)
+
+## Importace a aplikace Dust_Devil textur [4.11.2024]
+Importování prvků do projektu pro budoucí použití v trap systému a zakomponování do prostředí.
+
+
