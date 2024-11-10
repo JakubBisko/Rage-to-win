@@ -26,3 +26,7 @@ Byl vytvořen základní charakter, který se pohybuje za pomoci kláves WASD, s
 Importování prvků do projektu pro budoucí použití v trap systému a zakomponování do prostředí.
 
 
+## Attack animace [9-10.11.2024]
+Přidání animace útoku probíhalo pomocí implementace "input key node," díky kterému můžeme na základě podmínky, zda animace probíhá nebo už skončila, navázat další animaci. Tím zabraňujeme nahromadění animací a nepřirozenému pohybu. Dále se pomocí náhodného čísla můžeme rozhodnout, zda se provede animace A nebo B.
+![image](https://github.com/user-attachments/assets/cbc66c04-be60-4b7a-b121-ae639bf90842)
+![image](https://github.com/user-attachments/assets/9ec0225a-1941-4f84-b70a-b397639e50da)
