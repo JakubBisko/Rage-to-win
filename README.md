@@ -30,3 +30,8 @@ Importování prvků do projektu pro budoucí použití v trap systému a zakomp
 Přidání animace útoku probíhalo pomocí implementace "input key node," díky kterému můžeme na základě podmínky, zda animace probíhá nebo už skončila, navázat další animaci. Tím zabraňujeme nahromadění animací a nepřirozenému pohybu. Dále se pomocí náhodného čísla můžeme rozhodnout, zda se provede animace A nebo B.
 ![image](https://github.com/user-attachments/assets/cbc66c04-be60-4b7a-b121-ae639bf90842)
 ![image](https://github.com/user-attachments/assets/9ec0225a-1941-4f84-b70a-b397639e50da)
+
+## Lock-On na nepřítele
+
+Přidání základního Lock-On (zamknutí pohledu na nepřítele). Pro usnadnění zasažení nepřítele při pohybu.
+![image](https://github.com/user-attachments/assets/5687d0f8-b5eb-4481-a989-0cfa2569e1a8)
