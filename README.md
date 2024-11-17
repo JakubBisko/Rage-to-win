@@ -31,7 +31,7 @@ Přidání animace útoku probíhalo pomocí implementace "input key node," dík
 ![image](https://github.com/user-attachments/assets/cbc66c04-be60-4b7a-b121-ae639bf90842)
 ![image](https://github.com/user-attachments/assets/9ec0225a-1941-4f84-b70a-b397639e50da)
 
-## Lock-On na nepřítele
+## Lock-On na nepřítele [15-17.11.2024]
 
 Přidání základního Lock-On (zamknutí pohledu na nepřítele). Pro usnadnění zasažení nepřítele při pohybu.
 ![image](https://github.com/user-attachments/assets/5687d0f8-b5eb-4481-a989-0cfa2569e1a8)
