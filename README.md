@@ -35,3 +35,9 @@ Přidání animace útoku probíhalo pomocí implementace "input key node," dík
 
 Přidání základního Lock-On (zamknutí pohledu na nepřítele). Pro usnadnění zasažení nepřítele při pohybu.
 ![image](https://github.com/user-attachments/assets/5687d0f8-b5eb-4481-a989-0cfa2569e1a8)
+
+
+## Vylepšení Lock-On [18-19.11.2024]
+Opravení Lock-On otočených animací při jeho spuštění a celého průběhu za pomoci Blend Space a jeho aplikování do Animation Blueprintu herní postavy
+![image](https://github.com/user-attachments/assets/116ca63a-67f8-4611-8002-d9534b82032e)
+
