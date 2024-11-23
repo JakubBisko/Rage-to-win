@@ -41,3 +41,8 @@ Přidání základního Lock-On (zamknutí pohledu na nepřítele). Pro usnadně
 Opravení Lock-On otočených animací při jeho spuštění a celého průběhu za pomoci Blend Space a jeho aplikování do Animation Blueprintu herní postavy
 ![image](https://github.com/user-attachments/assets/116ca63a-67f8-4611-8002-d9534b82032e)
 
+## Vytvoření widgety DC(death counter) a game instance [21-22.11.2024]
+Vytvoření death counteru s implementací funkce přenosu dat mezi úrovněmi (Game Instance)
+![image](https://github.com/user-attachments/assets/8c176df6-927c-4177-aad4-0748258a2050) ![image](https://github.com/user-attachments/assets/cdd5bdb7-8d30-418c-a10b-d098bbb3a1fd)
+
+
