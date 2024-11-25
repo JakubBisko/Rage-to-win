@@ -45,4 +45,9 @@ Opravení Lock-On otočených animací při jeho spuštění a celého průběhu
 Vytvoření death counteru s implementací funkce přenosu dat mezi úrovněmi (Game Instance)
 ![image](https://github.com/user-attachments/assets/8c176df6-927c-4177-aad4-0748258a2050) ![image](https://github.com/user-attachments/assets/cdd5bdb7-8d30-418c-a10b-d098bbb3a1fd)
 
+## Health System [24.11.2024]
+Přidání health systému (na základě tří hodnot určujících maximální zdraví, minimální zdraví a aktuální zdraví) společně s widgetou indikující aktuální stav zdraví.
+![image](https://github.com/user-attachments/assets/1310e484-63e5-475e-b46b-5f53e85b5e59)
+
+
 
