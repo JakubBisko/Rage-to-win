@@ -49,5 +49,11 @@ Vytvoření death counteru s implementací funkce přenosu dat mezi úrovněmi (
 Přidání health systému (na základě tří hodnot určujících maximální zdraví, minimální zdraví a aktuální zdraví) společně s widgetou indikující aktuální stav zdraví.
 ![image](https://github.com/user-attachments/assets/1310e484-63e5-475e-b46b-5f53e85b5e59)
 
+## Herni menu [28-29.11.2024]
+Vytvoření menu ve hře, které se skládá ze dvou částí: jedna pro start a nastavení hry před jejím začátkem a druhá pro akce dostupné během samotné hry. Menu zahrnuje možnosti: 1) start hry/pokračování ve hře, 2) nastavení hry, 3) opuštění hry, 4) úprava hlasitosti a grafického rozlišení.
+Celá tato logika je založena na klíčovém nodu Get Game User Settings, pro práci s nastavením hry.
+![image](https://github.com/user-attachments/assets/abea3a0f-3fc4-47f6-8693-b4fff63976f0)
+![image](https://github.com/user-attachments/assets/24ebba7e-1630-42f0-ad9d-b4ed44d5c1e0)
+
 
 
