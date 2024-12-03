@@ -57,6 +57,10 @@ Na závěr došlo k vytvoření logiky pro vložení do viewportu ve hře a prá
 ![image](https://github.com/user-attachments/assets/24ebba7e-1630-42f0-ad9d-b4ed44d5c1e0)
 ![image](https://github.com/user-attachments/assets/324d207f-6bbd-4e82-baaf-7786e6ad70d3)
 
+## Přidání nepřítele [3.12.2024]
+Naimportování postavy nepřítele do projektu a vytvoření základní logiky pohybu na pozici hráče pomocí PawnSensing.
+![image](https://github.com/user-attachments/assets/d0d64359-3452-4803-ad34-d94d5ce5ac78)
+
 
 
 
