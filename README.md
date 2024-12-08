@@ -61,6 +61,10 @@ Na závěr došlo k vytvoření logiky pro vložení do viewportu ve hře a prá
 Naimportování postavy nepřítele do projektu a vytvoření základní logiky pohybu na pozici hráče pomocí PawnSensing.
 ![image](https://github.com/user-attachments/assets/d0d64359-3452-4803-ad34-d94d5ce5ac78)
 
+## Importování textur do SpaceMap
+Stažení a integrace texturovaných objektů do projektu v rámci sekce Space Map.
+![image](https://github.com/user-attachments/assets/ab2d84e0-8f81-4bf8-9f4b-4d5290258dbb)
+
 
 
 
