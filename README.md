@@ -65,6 +65,11 @@ Naimportování postavy nepřítele do projektu a vytvoření základní logiky 
 Stažení a integrace texturovaných objektů do projektu v rámci sekce Space Map.
 ![image](https://github.com/user-attachments/assets/ab2d84e0-8f81-4bf8-9f4b-4d5290258dbb)
 
+## Vytváření funkce trajektorie pro objekty [14-15.12.2024]
+Tvorba funkce pro trajektorii objektů s plynulým přechodem do stran za pomoci spline funkce v blueprintu.
+![image](https://github.com/user-attachments/assets/73b68438-8552-4ed8-87d9-97bd3c7a764c)
+
+
 
 
 
