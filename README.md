@@ -70,6 +70,13 @@ Tvorba funkce pro trajektorii objektů s plynulým přechodem do stran za pomoci
 ![image](https://github.com/user-attachments/assets/73b68438-8552-4ed8-87d9-97bd3c7a764c)
 
 
+## Vylepšení nepřítele [25-27.12.2024]
+Přidání hitboxu, lock-on na nepřítele a zdraví nepřítele společně s animacemi pohybu a základní animací útoku.
+![image](https://github.com/user-attachments/assets/8f95882b-7569-490d-9128-ee6c08b96ef7)
+
+
+
+
 
 
 
