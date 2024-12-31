@@ -74,7 +74,9 @@ Tvorba funkce pro trajektorii objektů s plynulým přechodem do stran za pomoci
 Přidání hitboxu, lock-on na nepřítele a zdraví nepřítele společně s animacemi pohybu a základní animací útoku.
 ![image](https://github.com/user-attachments/assets/8f95882b-7569-490d-9128-ee6c08b96ef7)
 
-
+## Přidaní textur do pozemni mapy [28-30.12.2024]
+Přidávání textur a vyřazování nepotřebných, společně s vytyčováním celé trati.
+![image](https://github.com/user-attachments/assets/64362ad8-d381-4a05-8cc5-ddf2f7884d62)
 
 
 
