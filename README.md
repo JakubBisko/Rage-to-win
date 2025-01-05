@@ -78,6 +78,9 @@ Přidání hitboxu, lock-on na nepřítele a zdraví nepřítele společně s an
 Přidávání textur a vyřazování nepotřebných, společně s vytyčováním celé trati.
 ![image](https://github.com/user-attachments/assets/64362ad8-d381-4a05-8cc5-ddf2f7884d62)
 
+## Texurace mapy [3-5.1.2025]
+Stažení a přidání textur + vytvoření kolizí již přidaným a nově staženým texturám.
+
 
 
 
