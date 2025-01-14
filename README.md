@@ -81,6 +81,9 @@ Přidávání textur a vyřazování nepotřebných, společně s vytyčováním
 ## Texurace mapy [3-5.1.2025]
 Stažení a přidání textur + vytvoření kolizí již přidaným a nově staženým texturám.
 
+## Fixace kamery hráče a přidání prvních trap systémů. [11-12.1.2025]
+Úprava kolize nepřítele s hráčem kvůli přeskakování kamery a přidání prvních pastí, které ovlivňují hráčovo zdraví.
+
 
 
 
