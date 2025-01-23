@@ -84,7 +84,8 @@ Stažení a přidání textur + vytvoření kolizí již přidaným a nově sta�
 ## Fixace kamery hráče a přidání prvních trap systémů. [11-12.1.2025]
 Úprava kolize nepřítele s hráčem kvůli přeskakování kamery a přidání prvních pastí, které ovlivňují hráčovo zdraví.
 
+## Přidávání trap systémů. [20-21.1.2025]
 
-
+![image](https://github.com/user-attachments/assets/16db01ea-0cf4-4fc7-8cb9-826fdc7df4e8)
 
 
