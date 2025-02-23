@@ -93,14 +93,14 @@ Přidávání pastí. Oprava kolizí a logiky death tornád, která se při del�
 
 ## Rozšiřování bojových systémů [1-4.2.2025]
 
-# Retargetování a přidávání animací útoků společně s napojením jejich trajektorií a započtením damage vůči health baru. Dále přidání možnosti úhybu pomocí úskoku.
+Retargetování a přidávání animací útoků společně s napojením jejich trajektorií a započtením damage vůči health baru. Dále přidání možnosti úhybu pomocí úskoku.
 ![image](https://github.com/user-attachments/assets/9bd43305-5d4e-48e3-9c1c-b9bb7de00ce6)
 ![image](https://github.com/user-attachments/assets/61f34d09-6028-4bff-9de5-c011c59dacb0)
 ![image](https://github.com/user-attachments/assets/6f5aaffa-1a75-48cb-a228-34c4f2d70ee4)
 
 
 ## Dialogový systém, textury a checkpointy[19-23.2.2025]
-# Implementace základního dialogového systému, úprava textur a barev, tvorba prvních dialogů a tvorba záchytných bodů.
+Implementace základního dialogového systému, úprava textur a barev, tvorba prvních dialogů a tvorba záchytných bodů.
 ![image](https://github.com/user-attachments/assets/c8947c93-8cda-48b7-8d5d-8fc56c25a39c)
 ![image](https://github.com/user-attachments/assets/6d4eaa88-793f-4832-a63c-44aa1e2b5547)
 
