@@ -104,7 +104,7 @@ Implementace základního dialogového systému, úprava textur a barev, tvorba 
 ![image](https://github.com/user-attachments/assets/c8947c93-8cda-48b7-8d5d-8fc56c25a39c)
 ![image](https://github.com/user-attachments/assets/6d4eaa88-793f-4832-a63c-44aa1e2b5547)
 
-## Úprava logiky a mechanik hry [24-27.22025]
+## Úprava logiky a mechanik hry [24-27.2025]
 Přepracování logiky výpočtu času v rámci herní instance a jeho samotného blueprintu.
 Oprava a vylepšení mechaniky rolování a procesu přijímání poškození během rolování.
 ![image](https://github.com/user-attachments/assets/6c2d966b-9401-4818-937a-bfbe82e56e6c)
