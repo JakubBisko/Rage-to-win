@@ -110,6 +110,10 @@ Oprava a vylepšení mechaniky rolování a procesu přijímání poškození b�
 ![image](https://github.com/user-attachments/assets/6c2d966b-9401-4818-937a-bfbe82e56e6c)
 ![image](https://github.com/user-attachments/assets/f89aaa86-a6c0-4cd5-8547-a9e827224f04)
 
+## Optimalizace soubojového systému a herních funkcí [7-9.3.2025]
+Úprava trajektorie útoků bossů a rozšíření palety útoků, vytvoření finálního shrnutí stavu hry a funkce pro zastavení času.
+![image](https://github.com/user-attachments/assets/d4f4cefc-d87e-488c-bf9b-73f8d3d18c4e)
+
 
 
 
