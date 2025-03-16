@@ -114,6 +114,9 @@ Oprava a vylepšení mechaniky rolování a procesu přijímání poškození b�
 Úprava trajektorie útoků bossů a rozšíření palety útoků, vytvoření finálního shrnutí stavu hry a funkce pro zastavení času.
 ![image](https://github.com/user-attachments/assets/d4f4cefc-d87e-488c-bf9b-73f8d3d18c4e)
 
+## Rozšíření dialogů, vylepšení textur a přidání interakce s trigger boxem [11-15.3.2025]
+Optimalizace projektu: přidání možnosti dabování do dialogů, přidání nového assetu textur, implementace výpisu času a počtu úmrtí skrze trigger box, barvení nevybarvených textur.
+
 
 
 
